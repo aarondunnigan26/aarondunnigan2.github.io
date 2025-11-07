@@ -45,3 +45,13 @@ this is ~strikethrough~
 >>This is the second example 
 
 >>>This is the third example 
+
+
+Simplest method
+
+![PCB IMage](/assets/images/pcb1/jpg)
+
+![PCB Image]({{ "assets/images/pcb1.jpg"}})
+
+
+You can downlaod the project pdf worksheet [right here](/assets/files/file1.pdf)
