@@ -1,5 +1,5 @@
 ---
-title: "How To Use Markdown" 
+title: "Daily Journal" 
 categproes:
     -Tutorials
     -Blogs
@@ -11,7 +11,9 @@ tags:
 ---
 
 
-This is just simiple text 
+__Daily Journal__
+
+12/9: I drafted an email to send to the pearl team to schedule our next visit to the rehab center. We plan to go with the other class first period next week. 
 
 
 
