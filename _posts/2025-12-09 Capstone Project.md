@@ -1,6 +1,6 @@
 ---
 title: "Capstone Project Documentation" 
-categproes:
+categories:
     -Tutorials
     -Blogs
 tags: 
