@@ -25,7 +25,7 @@ __Design Specifications:__
 
 ![PCB Image](/assets/images/Fablab%20Rehab%20Plan.pdf)
 
-## Instructions: 
+# Instructions: 
 
 __Bill of Matterials__
 
@@ -39,7 +39,7 @@ __Tools Used:__
 
 
 
-### Daily Journal
+# Daily Journal
 
 9/26: We visited the Pearl Rehab center, and had the chance to sit in on appointments, see the kind of people who need this project, and ask specific questions on how our projects would work. 
 
@@ -119,51 +119,8 @@ __Tools Used:__
 
 12/18: Today we were supposed to visit the Carolinas Rehab Center, however I had the flu so we had to postpone the trip to another day. 
 
-#### Challanges: 
+# Challanges: 
 
 The main challenges that I have faced are with 3D printing my prototype. Oringnally my print failed becuase the nosel on the printer was clogged. When I reprinted it on a different printer, the bed was not placed on correctly so it kept hitting against the display. The print was stopped by a teacher and thrown out before I was able to see thought. 
 
 ![PCB Image](/assets/images/IMG_1569.HEIC)
-
-
-
-**this text is bold**
-
-*this text is in italics now*
-
-__This text is bold__
-
-**_this text is bold as italics_**
-
-this is ~strikethrough~
-
-
-
-
-# Heading 1
-
-## Heading 2 
-
-### Heading 3 
-
-###### Heading 6
-
-
-
-
-
->This is first example 
-
->>This is the second example 
-
->>>This is the third example 
-
-
-Simplest method
-
-![PCB IMage](/assets/images/pcb1/jpg)
-
-![PCB Image]({{ "assets/images/pcb1.jpg"}})
-
-
-You can downlaod the project pdf worksheet [right here](/assets/files/file1.pdf)
