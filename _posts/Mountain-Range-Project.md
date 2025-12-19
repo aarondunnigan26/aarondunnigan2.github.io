@@ -1,6 +1,6 @@
 ---
 title: "How To Use Markdown" 
-categproes:
+categories:
     -Tutorials
     -Blogs
 tags: 
