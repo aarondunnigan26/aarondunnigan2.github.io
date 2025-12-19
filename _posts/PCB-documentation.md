@@ -1,6 +1,6 @@
 ---
 title: "PCB Project" 
-categproes:
+categories:
     -Tutorials
     -Blogs
 tags: 
