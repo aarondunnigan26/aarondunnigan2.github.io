@@ -39,7 +39,9 @@ __Tools Used:__
 
 
 
-# Daily Journal
+# Documentation of Learning:
+
+__Daily Journal:__
 
 9/26: We visited the Pearl Rehab center, and had the chance to sit in on appointments, see the kind of people who need this project, and ask specific questions on how our projects would work. 
 
@@ -119,8 +121,44 @@ __Tools Used:__
 
 12/18: Today we were supposed to visit the Carolinas Rehab Center, however I had the flu so we had to postpone the trip to another day. 
 
-# Challanges: 
+1/6: I wrote down our plan for everything to make sure that I had a plan for everything until the project due date. I printed the cup holder again, and it failed
 
-The main challenges that I have faced are with 3D printing my prototype. Oringnally my print failed becuase the nosel on the printer was clogged. When I reprinted it on a different printer, the bed was not placed on correctly so it kept hitting against the display. The print was stopped by a teacher and thrown out before I was able to see thought. 
+1/7-9: We worked on a task analysis sheet, a Gantt chart, and sent an email to the Rehab center. 
+
+1/12: I looked through different button options that we could use as a switch to alternate between the arm's two preset conditions. I then. I also printed a prototype for the gyro cup. I learned, though, that it does not print well if
+
+1/14:  Today, Daniel and I both visited the Carolina rehab center to show them our different button ideas and how far we had come in the project. During this meeting, we also learned about how we would need to mount the arm to the back of the wheelchair and the best placements for the arm. 
+
+1/15: Today was when I began to work on designing our updated cup holder design in Fusion 360.
+
+1/20-27: I continued to work on the cup holder design in Fusion 360. I decided to scrap the version I had edited from the design online, and I created my own version to allow more freedom when I was designing it. I added a cup to it to allow for a wider variety of cups to fit in. I also added two rods that stuck out of the innermost circle, and the two other circles had much larger diameters. This allowed for a lot more degrees of rotation, which was necessary for the cup to prevent spills. There were also a couple of snow days that caused the project to take longer than expected.
+
+1/28: I printed my first version of the cup holder. This version's outermost circle was too wide, and the holes in the cones on the middle circle were too loose, which allowed the cup to easily fall out
+
+1/29: I spent my class period fixing the issues mentioned above
+
+1/30-2/3: We had multiple snow days again
+
+2/4-5: I continued to work on fixing the issues, and I printed the new version of the cup
+
+2/6: There was still an issue where the middle cup was too loose around the two extensions that I made. To fix this, I added two boxes with holes that allowed rotation while also securing the cup. I also made the outermost circle tighter to make sure the cup holder was secure. I designed and printed small attachments that would allow me to connect the cup holder to arm 2 using screws and a hex key. The print was very quick, and I was able to do it all in one class period. When I attached the connectors to arm 2, I had an issue because the lab did not have a large supply of M3 screws. 
+
+2/7-2/11: Out of class due to swim competition and illness
+
+2/12:  I printed the new design for the middle circle. I forgot to add one whole to the outermost circle, so the design didn't work out as intended. I also saw that the lab had a large variety of M2.5 screws in different lengths, so I changed the screw hole sizes to 2.5mm in Fusion 360. I printed this again, and I had to reprint my arm design and the circles for the cup holder because they also needed the screw holes sized. Everything then fit a lot better and made for a much cleaner design. Lastly, I had to edit the file for arm 1 to make it longer, when I tried to do this in Fusion 360, there was an inverted face that led to the mesh file not being converted correctly to a solid body. 
+
+2/18: I used Blender to edit the file instead, which brought its own set of challenges. In Blender, there wasn't a dimension tool, and the files would be uploaded at 100x their original size. To fix this, I would have to scale the STL file down, create a cube the size I wanted to stretch arm 1 to next to my file, line up their right edges, and then stretch the left end of the arm 1 file to the left edge of the cube. I then deleted the cube and exported the new STL file. I printed this file to be ready the next day. 
+
+2/19: I grabbed the edited prints. I also cut a piece of wood, drilled 2.5mm holes in it, and aligned it with the base of the arm that I designed. I then screwed the m 2.5 screws in and had a more solid base to deal with balance issues the arm may have. The wood plank will serve as a temporary replacement for the back of the wheelchair because we can not have one in the lab with us. 
+
+2/20: I worked on integrating the electronics with the 3D printed components to put the full device together. 
+
+__Challenges and Important Decisions Made to Overcome Them:__
+
+When I initially brainstormed the idea, the first challenge that I saw was that if the cup holder were to move between the two preset conditions, the cup would likely spill. To solve this, I decided that we would use a self-balancing design that would keep the cup's mass centered as long as there were smooth movements. We found a design for a self-balancing cup holder on 11/12. 
+
+The initial design found, though, was only compatable with certain-sized cups, because the cup would fall through without the right tapering. So if the patient were to use a fast-food cup, they would need someone else to transfer the drink to a cup compatible with the design. To fix this, I edited the design to add a bottom to the cup holder that would hold any shaped cup, preventing it from falling through.
+
+Originally, my print failed because the nozzle on the printer was clogged. When I reprinted it on a different printer, the bed was not placed correctly, so it kept hitting against the display. The print was stopped by a teacher and thrown out before I was able to see through it.
 
 ![PCB Image](/assets/images/IMG_1569.HEIC)
